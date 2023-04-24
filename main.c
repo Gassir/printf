@@ -1,11 +1,11 @@
-#include <limits.h>
-#include <stdio.h>
 #include "main.h"
+#include <stdio.h>
+#include <limits.h>
 
 /**
  * main - Entry point
  *
- * Return: Always 0
+ * Return: 0 Always
  */
 int main(void)
 {
