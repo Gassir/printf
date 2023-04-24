@@ -7,7 +7,7 @@
  * print_char - Prints a char
  * @types: List
  * @buffer: handle the printing process
- * @flags:  computes the currently active flags
+ * @flags: computes the currently active flags
  * @width: Width
  * @precision: Precision
  * @size: Size specifier
